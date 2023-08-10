@@ -1,1 +1,1 @@
-# pytorch_and_cuda_training_for_jetson_nano
+# PyTorch and cuda(JetPack) Training for Jetson Nano
