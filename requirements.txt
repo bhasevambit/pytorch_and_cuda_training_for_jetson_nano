@@ -1,0 +1,6 @@
+dataclasses==0.8
+numpy==1.19.5
+PyAudio==0.2.13
+scipy==1.5.4
+torch @ file:///home/vinlandmbit/sound_source_localization/pytorch_and_cuda_training_for_jetson_nano/wheels/torch-1.10.0-cp36-cp36m-linux_aarch64.whl
+typing_extensions==4.1.1
